@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Nesiacoin (NSC)
 
 Blah, blah, blah.
